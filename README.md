@@ -8,3 +8,4 @@ Bu dosyada kodluyoruz Front-End eğitimlerinin ödevleri bulunuyor.
 * CSS Ödev - 1 
 * CSS Ödev - 2 google.com (son versiyon)
 * Bootsrap Ödev-1 
+* Bootsrap Ödev-2

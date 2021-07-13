@@ -7,5 +7,6 @@ Bu dosyada kodluyoruz Front-End eğitimlerinin ödevleri bulunuyor.
 * HTML Ödev 3 google.com (1993)
 * CSS Ödev - 1 
 * CSS Ödev - 2 google.com (son versiyon)
-* Bootsrap Ödev-1 
-* Bootsrap Ödev-2
+* Bootstrap Ödev-1 
+* Bootstrap Ödev-2 (instagram clone)
+* Bootstrap Ödev-3 (Linkedin clone)

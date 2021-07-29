@@ -10,3 +10,4 @@ Bu dosyada kodluyoruz Front-End eğitimlerinin ödevleri bulunuyor.
 * Bootstrap Ödev-1 
 * Bootstrap Ödev-2 (instagram clone)
 * Bootstrap Ödev-3 (Linkedin clone)
+* JavaScript Ödev-1 

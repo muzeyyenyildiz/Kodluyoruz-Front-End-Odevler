@@ -121,7 +121,6 @@ function addMenu(category) {
           </div>
         </div>
         </div>`;
-    } else {
     }
   }
   menuContainer.innerHTML = menuItems;

@@ -60,10 +60,9 @@ O(n logn) => her ayırma ve birleştirme işlemde O(n) geliyor
 # Binary Search Tree 
 
 ##### 1 Aşağıdaki dizinin Binary-Search-Tree aşamalarını yazınız.
+> [7, 5, 1, 8, 3, 6, 0, 9, 4, 2]
+> [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 
->[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
-Öncelikle diziyi sıralayalım
-[0,1,2,3,4,5,6,7,8,9]
 Root Değer = 5
 Dengeli bir dağılım için;
 Sağında = 7
